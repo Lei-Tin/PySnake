@@ -18,7 +18,7 @@ A light snake clone written in pure Python, roughly 450 lines.
 
 # In Game Picture
 
-![Gameplay of snake in a 12 by 12 grid]()
+![Gameplay of snake in a 12 by 12 grid](https://github.com/Lei-Tin/PySnake/blob/a13d4bf4074498ec767401115aec6437b3093532/demo.gif)
 
 # Libraries Used
 
